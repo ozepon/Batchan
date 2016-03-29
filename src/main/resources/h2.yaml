@@ -1,0 +1,4 @@
+driver: "org.h2.Driver"
+path: "jdbc:h2:file:./db/mydb"
+user: "sa"
+pass: ""
